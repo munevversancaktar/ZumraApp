@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ZumraApp.Data.Model.Models.Writers
+{
+    public class Writer
+    {
+        public Guid WriterID { get; set; }
+
+        public string Name { get; set; }
+
+        public string Surname { get; set; }
+
+        public string Mail { get; set; }
+
+        public DateTime Date { get; set; }
+
+        public string UserName { get; set; }
+
+        public int ImageID { get; set; }
+
+        public bool Activated { get; set; }
+
+
+
+
+
+    }
+}

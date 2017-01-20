@@ -47,16 +47,15 @@
     <Compile Include="Models\FollowOfSite\FollowOfSite.cs" />
     <Compile Include="Models\ImageOfArticle\ImageOfArticle.cs" />
     <Compile Include="Models\Images\Image.cs" />
+    <Compile Include="Models\IpLogOfVisitors\IpLogOfVisitors.cs" />
+    <Compile Include="Models\Messages\Messages.cs" />
+    <Compile Include="Models\TagOfArticle\TagOfArticle.cs" />
+    <Compile Include="Models\Tag\Tag.cs" />
+    <Compile Include="Models\TypeOfArticle\TypeOfArticle.cs" />
+    <Compile Include="Models\Writers\Writer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\IpLogOfVisitors\" />
-    <Folder Include="Models\Messages\" />
-    <Folder Include="Models\TagOfArticle\" />
-    <Folder Include="Models\Tag\" />
-    <Folder Include="Models\TypeOfArticle\" />
-    <Folder Include="Models\Writers\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

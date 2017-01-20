@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{42C8886C-1A53-4F7B-A58D-64B10CB29D35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bussines", "Bussines", "{9B381459-2C19-4A3D-8704-552AF2079170}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{5369E749-9545-446F-9843-C3D434134D08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Access", "Data Access", "{86E8C136-3C3A-47C7-866D-6667CE7DFB47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZumraApp.Data.Model", "ZumraApp.Data.Model\ZumraApp.Data.Model.csproj", "{0128A5B4-4A4A-4188-8171-70770379F28E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZumraApp.Data", "ZumraApp.Data\ZumraApp.Data.csproj", "{0816E7F6-61D7-4053-ACF5-9391E2EFF7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0128A5B4-4A4A-4188-8171-70770379F28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0128A5B4-4A4A-4188-8171-70770379F28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0128A5B4-4A4A-4188-8171-70770379F28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0128A5B4-4A4A-4188-8171-70770379F28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0816E7F6-61D7-4053-ACF5-9391E2EFF7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0816E7F6-61D7-4053-ACF5-9391E2EFF7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0816E7F6-61D7-4053-ACF5-9391E2EFF7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0816E7F6-61D7-4053-ACF5-9391E2EFF7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0128A5B4-4A4A-4188-8171-70770379F28E} = {42C8886C-1A53-4F7B-A58D-64B10CB29D35}
+		{0816E7F6-61D7-4053-ACF5-9391E2EFF7EE} = {42C8886C-1A53-4F7B-A58D-64B10CB29D35}
+	EndGlobalSection
+EndGlobal

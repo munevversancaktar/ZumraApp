@@ -1,0 +1,5 @@
+c:\users\münevver sancaktar\documents\visual studio 2015\Projects\ZumraApp\ZumraApp.Data.Model\bin\Debug\ZumraApp.Data.Model.dll
+c:\users\münevver sancaktar\documents\visual studio 2015\Projects\ZumraApp\ZumraApp.Data.Model\bin\Debug\ZumraApp.Data.Model.pdb
+c:\users\münevver sancaktar\documents\visual studio 2015\Projects\ZumraApp\ZumraApp.Data.Model\obj\Debug\ZumraApp.Data.Model.csprojResolveAssemblyReference.cache
+c:\users\münevver sancaktar\documents\visual studio 2015\Projects\ZumraApp\ZumraApp.Data.Model\obj\Debug\ZumraApp.Data.Model.dll
+c:\users\münevver sancaktar\documents\visual studio 2015\Projects\ZumraApp\ZumraApp.Data.Model\obj\Debug\ZumraApp.Data.Model.pdb
